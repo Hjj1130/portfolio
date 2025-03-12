@@ -1,7 +1,7 @@
 # portfolio
 
-#main 
-- 포트폴리오_정현중.pttx 
+#main document
+- 포트폴리오_정현중.pptx 
 
 
 #참고자료
